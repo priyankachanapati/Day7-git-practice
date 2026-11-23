@@ -1,2 +1,2 @@
-About: practice repo for Day 7.
+About: version A
 Purpose: Learning Git branches and pull requests.
